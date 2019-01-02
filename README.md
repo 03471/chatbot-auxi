@@ -5,4 +5,5 @@ uses python flask and angularjs as web front end
 requires python 3.5.0 </br>
 install all requirements in txt </br>
 download trained model <a href="https://drive.google.com/file/d/1eHUmg5mp2kyQM9uUxxBjou4U3afIaWKR/view?usp=sharing">here</a> and put in project root folder</br>
-run server.py
+run server.py</br>
+from browser, open http://localhost:5000
