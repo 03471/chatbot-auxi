@@ -1,0 +1,9 @@
+Flask==0.10.1
+Flask-SocketIO
+Jinja2==2.7.2
+MarkupSafe==0.18
+Werkzeug==0.9.4
+python-socketio
+itsdangerous==0.23
+tensorlayer==1.8.4
+tensorflow==1.12.0
