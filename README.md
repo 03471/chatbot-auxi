@@ -1,5 +1,5 @@
 # chatbot-auxi
-reinforcement and sequence to sequence learning with tensorflow gpu to develop a ubuntu commands chatbot trained with <a href="http://dataset.cs.mcgill.ca/ubuntu-corpus-1.0/">ubuntu corpus</a>.
+reinforcement and sequence to sequence learning with tensorflow gpu to develop an ubuntu commands chatbot trained with <a href="http://dataset.cs.mcgill.ca/ubuntu-corpus-1.0/">ubuntu corpus</a>.
 uses python flask and angularjs as web front end
 
 requires python 3.5.0 </br>
